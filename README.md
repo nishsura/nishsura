@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nishith Sura (@nishsura)
 
-I'm a passionate **Computer Science (Honors) student** at the **University of Maryland, College Park**, specializing in **Machine Learning** with a minor in **Linguistics**. I enjoy building software solutions that merge data-driven insights with scalable, efficient technologies.
+I'm a passionate **Computer Science (Honors) student** at the **University of Maryland, College Park**, specializing in **Machine Learning**. I enjoy building software solutions that combine data-driven insights with scalable, efficient technologies.
 
 ## 👀 Interests  
 - **Machine Learning & AI**: Exploring NLP, deep learning, and predictive modeling.  
@@ -11,7 +11,6 @@ I'm a passionate **Computer Science (Honors) student** at the **University of Ma
 ## 🌱 Currently Learning  
 - Advanced **Machine Learning** techniques for financial modeling and NLP.  
 - **Distributed Systems** and cloud computing using AWS & Azure.  
-- **Rust** for systems programming and performance optimization.  
 
 ## 💞️ Looking to Collaborate On  
 - **Open-source ML/NLP projects**  
